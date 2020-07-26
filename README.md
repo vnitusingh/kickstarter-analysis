@@ -42,7 +42,7 @@ From the data it is clear that the theater campaigns in the month of May are mos
 
 **- What can you conclude about the Outcomes based on Goals?**
 
-The most successful campaigns has goal of $1000 or less.
+Even though the success rate for Goal of under $1000 is higher, a play with goal of $1000 to $4999 also has a fair chance of being successful.
 
 **- What are some limitations of this dataset?**
 
