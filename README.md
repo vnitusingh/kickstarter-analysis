@@ -13,4 +13,5 @@ Visualization of campaign data to look at fundraising outcomes association to la
 
 ### Analysis of Outcomes Based on Launch Date
 From the chart we see that best time to campaign for Theatre category is May and then second best is June. December is the least successful month for campaigns. 
+
 ![](./resources/Theater_Outcomes_vs_Launch.png)
