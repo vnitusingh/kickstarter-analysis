@@ -19,7 +19,8 @@ From the chart we see that best time to campaign for Theatre category is May and
 ### Analysis of Outcomes Based on Goals
 Let's look at the highlighted cells in the table below. 
 
-![](./resources/Table-Outcomes_vs_Goals.png)
+![](./resources/Table-Outcomes_vs_Goals_updt.png)
+
 
 As you will see the greatest success rate for outcomes (76%) is for Goal of less than $1000. But it is also apparent that only 18% of plays had goal of less than $1000.
 
