@@ -37,17 +37,22 @@ I did some internet reading about absolute and relative numbers and figured out 
 ## Results
 
 **- What are two conclusions you can draw about the Outcomes based on Launch Date?**
+
 From the data it is clear that the theater campaigns in the month of May are most successful where as the ones in December are the least successful. 
 
 **- What can you conclude about the Outcomes based on Goals?**
+
 The most successful campaigns has goal of $1000 or less.
 
 **- What are some limitations of this dataset?**
+
 Some limitations that I can think of this dataset are:
 1. Within countries, there is no data to understand if any particular region where the most donations were coming from. This would have helped Louise focus on particular regions rather than entire country.
 2. It is hard to know from just number of backers to understand how the donations are distributed. Was it that one backer contributed big portion of the donation? 
 3. A Profile of big backers would have helped to understand what motivates them to donate large sum of money. 
 
+
 **- What are some other possible tables and/or graphs that we could create?**
+
 1. It would be interesting to see if Staff_Pick had any effect on the campaing being successful or not. 
 2. It would also help if we could see how the campaigns fared in different countries.
